@@ -1,0 +1,6 @@
+//des_bébliothéque_a_installé
+ 
+numpy
+nltk
+scikit-learn
+tensorflow
